@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 feature!
 test1
 
@@ -8,7 +7,3 @@ haha
 
 luna is great
 
-longjie is studying
-=======
-cao ni nainai
->>>>>>> dev
